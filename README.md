@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind Kumar K</h1>
 
 <h3 align="center">
-  PHP Laravel Developer | Backend Engineer | REST API Developer
+  Full-Stack PHP/Laravel Developer | Backend Engineer
 </h3>
 
 <p align="center">
@@ -17,136 +17,122 @@
 
 ## 👨‍💻 About Me
 
-I'm a **PHP Laravel Backend Developer** focused on building reliable, scalable and maintainable web applications.
+I'm a **Full-Stack PHP/Laravel Developer with 3+ years of experience** building production web applications, REST APIs and business platforms.
 
-I work primarily with **PHP, Laravel, MySQL, Oracle, Redis and REST APIs**, with experience in enterprise ERP systems, reporting applications and legacy PHP modernization.
+I work across the stack — from **frontend development and API integration to backend architecture, database optimization, Redis caching and Linux deployment**.
 
-* 🚀 Backend development with PHP & Laravel
-* 🔌 REST API development and integration
+* 🚀 PHP & Laravel application development
+* 🔌 REST API development & integration
+* ⚡ Redis caching & performance optimization
 * 🗄️ MySQL & Oracle database development
-* ⚡ Redis caching and performance optimization
-* 📊 Enterprise reports and data-driven applications
-* 🔄 Legacy PHP application maintenance and modernization
-* 🔐 Secure and reusable backend development
-* 🤖 AI-assisted development and automation
-* ☁️ Exploring SaaS architecture and product development
+* 🔐 Authentication & Role-Based Access Control
+* ⚙️ Queues, Jobs & scheduled background processing
+* 📊 Dynamic reporting & Excel exports
+* 🐧 Linux, Git & production deployments
 
 ---
 
 ## 🧰 Tech Stack
 
-### Backend
+**Languages:** PHP 8.x • JavaScript • HTML5 • CSS3
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" height="50" alt="PHP Laravel"/>
-</p>
+**Frameworks:** Laravel 7–11 • Bootstrap • jQuery
 
-### Database & Caching
+**Database & Cache:** MySQL • Oracle • Redis • Eloquent
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis" height="50" alt="MySQL Redis"/>
-  <img src="https://img.shields.io/badge/Oracle%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="50" alt="Oracle 11g"/>
-</p>
+**API & Authentication:** REST API • Sanctum • Spatie Permissions • Postman
 
-### Frontend
+**Architecture:** MVC • Repository Pattern • Service Layer • SOLID
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" height="50" alt="Frontend"/>
-</p>
+**Queues & Jobs:** Laravel Queues • Jobs • Scheduler • Redis
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,github" height="50" alt="VS Code Docker GitHub"/>
-</p>
+**DevOps:** Git • GitHub • Linux • Ubuntu • SSH • Hostinger
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🏢 Enterprise ERP Development
+### PHP / Laravel Developer — Zaaroz Pvt Ltd
 
-Working on enterprise ERP applications with a focus on **textile-industry business workflows**.
+**June 2024 — Present**
 
-Areas include:
+Working on production applications and REST APIs with a focus on performance, reliability and scalability.
 
-* Employee Management
-* Inventory & Stock Management
-* Purchase Workflows
-* Supplier Management
-* Approval Workflows
-* Master Data Management
-* Business Reports
-* Excel Import & Export
-* Data Validation
-* Role-Based Access
-* Database Optimization
+* Built APIs for multi-app food delivery & booking platforms
+* Led **Laravel 7 → Laravel 11** migration
+* Designed Redis caching with database fallback
+* Built RBAC ticketing and email-to-ticket automation
+* Developed **20+ dynamic reporting modules**
+* Built Turf & Sports booking APIs
+* Implemented Laravel Queues, Jobs and reward processing
+* Optimized N+1 queries and database performance
+* Managed Linux environments and SIT/UAT deployments
 
-I also work with **legacy PHP applications**, focusing on making changes safely while maintaining existing business workflows and system stability.
+### PHP / Laravel Developer — Hello Technologies
 
----
+**April 2023 — June 2024**
 
-## ⚡ Backend Development
+Developed Laravel applications and REST APIs across hospitality, e-commerce and service-based platforms.
 
-| Area        | Technologies                  |
-| ----------- | ----------------------------- |
-| Backend     | PHP, Laravel                  |
-| APIs        | REST APIs                     |
-| Databases   | MySQL, Oracle                 |
-| Caching     | Redis                         |
-| Frontend    | JavaScript, jQuery, Bootstrap |
-| Reports     | SQL, Excel Import/Export      |
-| Development | VS Code, Docker               |
-| Automation  | AI Tools, n8n                 |
+* Built admin panels and business management systems
+* Developed RBAC, CRUD and reporting modules
+* Worked on appointment, billing, inventory and order systems
+* Implemented authentication, APIs and database solutions
+* Handled hosting and production deployments
 
----
+### Intern — Full-Stack PHP Developer
 
-## 🚀 Featured Projects
+**Hello Technologies | December 2022 — March 2023**
 
-### 🌐 Portfolio
-
-My personal developer portfolio showcasing my skills, experience and projects.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Portfolio](https://aravindo7.github.io/portfolio/)
-
-🔗 [Repository](https://github.com/Aravindo7/portfolio)
+Worked with PHP, Laravel, Blade, REST APIs, databases and deployment while developing production application features.
 
 ---
 
-### 🏋️ Gym SaaS
+## 🚀 Selected Work
 
-A Laravel-based gym management application focused on business workflows and SaaS architecture.
+### 🍔 Multi-App Food Delivery & Booking Platform
 
-**Tech:** Laravel • PHP • MySQL
+Production platform supporting **Customer, Rider, Vendor and Manager** applications.
 
-**Focus:**
+**Laravel 11 • PHP 8 • MySQL • Redis • REST API • JavaScript**
 
-* Membership Management
-* Admin Dashboard
-* User Roles
-* Business Workflows
-* SaaS Architecture
+### 🔄 Laravel 7 → 11 Migration
+
+Migrated a live production application while resolving deprecated dependencies, authentication changes and compatibility issues.
+
+### ⚡ Redis Caching Architecture
+
+Implemented multi-layer Redis caching with **database fallback, TTL management and cache warming** for high-traffic APIs.
+
+### 🎫 RBAC Ticketing System
+
+Built role-based ticket management with **auto-assignment, email-to-ticket automation, SLA tracking and ticket merging**.
+
+### 🏟️ Booking & Rewards Systems
+
+Developed booking APIs with availability validation, discounts, queues, scheduled rewards, referral processing and idempotency protection.
+
+### 📊 Dynamic Reporting
+
+Built and maintained **20+ dynamic reporting modules** with advanced filtering, grouping, date-range queries and exports.
 
 ---
 
-### 👕 Wear Tally
+## 🎓 Education
 
-A lightweight PHP/MySQL application built around business workflows and reporting.
+**M.Sc Computer Science** — Annamalai University, Chidambaram
 
-**Tech:** PHP • MySQL • JavaScript
-
-**Focus:**
-
-* Data Management
-* Business Workflows
-* Reports
-* Simple & Practical UI
+**B.Sc Computer Science** — NMS S. Vellaichamy Nadar College, Madurai
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+Laravel • Docker • CI/CD • GitHub Actions • Redis • System Design • AI-Assisted Development • n8n • SaaS Architecture
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img
@@ -161,10 +147,6 @@ A lightweight PHP/MySQL application built around business workflows and reportin
   />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Aravindo7&theme=tokyonight&hide_border=true"
@@ -174,47 +156,18 @@ A lightweight PHP/MySQL application built around business workflows and reportin
 
 ---
 
-## 📚 Currently Learning
-
-* Laravel 11
-* Docker
-* CI/CD
-* GitHub Actions
-* Redis & Performance Optimization
-* AI-Assisted Development
-* n8n Automation
-* SaaS Architecture
-* System Design
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Improve Laravel backend architecture
-* 🧠 Strengthen system-design skills
-* 🐳 Build practical Docker workflows
-* 🔄 Implement CI/CD pipelines
-* ⚡ Improve database and caching strategies
-* 🤖 Build useful AI-powered developer tools
-* 📦 Build and ship personal SaaS projects
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Aravindo7">
     <img src="https://img.shields.io/badge/GitHub-Aravindo7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://aravindo7.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Aravind%20Kumar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/aravind-kumar-1b54b1203/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aravind%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aravind24121999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
 <h3 align="center">💡 Build • Learn • Improve • Automate</h3>
-
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
